@@ -1,0 +1,10 @@
+streamlit
+opencv-python-headless
+numpy
+Pillow
+requests
+transformers
+torch
+matplotlib
+pvlib
+pandas
